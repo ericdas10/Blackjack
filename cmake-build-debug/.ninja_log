@@ -1,0 +1,9 @@
+# ninja log v6
+28	726	7552030265497039	exam_tabel_autogen/timestamp	1d8554b402059d31
+28	726	7552030265497039	exam_tabel_autogen/mocs_compilation.cpp	1d8554b402059d31
+28	726	7552030265497039	C:/Users/Eric/Desktop/Facultate/Anul 1/Semestrul 2/OOP/blackjack_v2.0/cmake-build-debug/exam_tabel_autogen/timestamp	1d8554b402059d31
+28	726	7552030265497039	C:/Users/Eric/Desktop/Facultate/Anul 1/Semestrul 2/OOP/blackjack_v2.0/cmake-build-debug/exam_tabel_autogen/mocs_compilation.cpp	1d8554b402059d31
+731	2831	7552030266182408	CMakeFiles/exam_tabel.dir/main.cpp.obj	56e0246e45c51d07
+726	2845	7552030266132557	CMakeFiles/exam_tabel.dir/exam_tabel_autogen/mocs_compilation.cpp.obj	86b7e5d1895e462b
+735	2985	7552030266222411	CMakeFiles/exam_tabel.dir/mainwindow.cpp.obj	383ef34ea9072461
+2985	3423	7552030288716526	exam_tabel.exe	2263b88325841ad4

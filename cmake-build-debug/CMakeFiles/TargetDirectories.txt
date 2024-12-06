@@ -1,0 +1,5 @@
+C:/Users/Eric/Desktop/Facultate/Anul 1/Semestrul 2/OOP/blackjack_v2.0/cmake-build-debug/CMakeFiles/exam_tabel.dir
+C:/Users/Eric/Desktop/Facultate/Anul 1/Semestrul 2/OOP/blackjack_v2.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Eric/Desktop/Facultate/Anul 1/Semestrul 2/OOP/blackjack_v2.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Eric/Desktop/Facultate/Anul 1/Semestrul 2/OOP/blackjack_v2.0/cmake-build-debug/CMakeFiles/exam_tabel_autogen_timestamp_deps.dir
+C:/Users/Eric/Desktop/Facultate/Anul 1/Semestrul 2/OOP/blackjack_v2.0/cmake-build-debug/CMakeFiles/exam_tabel_autogen.dir
